@@ -14,7 +14,7 @@ def laba2val(parol):
         print("Password must have at least one uppercase or lowercase letter", file=sys.stderr)
         return 1
 
-    print("You are a smart person")
+    print("You are smart person")
     return 0
 
 if __name__ == "__main__":
